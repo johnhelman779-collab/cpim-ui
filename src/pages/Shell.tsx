@@ -14,7 +14,7 @@ export default function Shell() {
       <header className="topbar">
         <div className="brand">
           <span className="brand-mark">CPIM</span>
-          <span className="brand-sub">Computer Integration Management</span>
+          <span className="brand-sub">Computer Integration Management · v0.1.1</span>
         </div>
         <nav className="nav">
           <NavLink to="/devices">Devices</NavLink>
